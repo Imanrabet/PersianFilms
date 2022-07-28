@@ -3,7 +3,20 @@ Data gathered by ARIAN GHASEMI
 code by: Kamyar Bagha
 
 
+
+
 ![image](https://user-images.githubusercontent.com/100142624/181587703-5385eeb0-ff0e-4115-a891-ff6509193e15.png)
+
+Columns definition:
+Name : اسم فیلم/سریال
+Actors : اسامی بازیگران
+Score : امتیاز مخاطبان فیلیمو
+About : درباره ی فیلم/سریال
+Genre : ژانر
+Crew : عوامل تهیه
+Image : عکس فیلم/سریال
+Voted : تعداد افرادی که در امتیاز دهی شرکت کردند
+Type : فیلم یا سریال
 
 
 ![image](https://user-images.githubusercontent.com/100142624/181587511-06cb185e-34f4-407f-96b1-4ccb8652f022.png)
